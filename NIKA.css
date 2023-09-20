@@ -1,21 +1,26 @@
 h1{
-text-align: center;
-background-color: rgb(99, 6, 6);
-}
-
-h3{
-    background-color: rgb(124, 6, 6) ;
-}
-
-p {
     text-align: center;
-    font-size: medium;
-}
-
-strong {
-    font-size: larger;
-}
-
-body {
-    background-color: ;
-}
+    background-color:rgb(255, 255, 255);
+    }
+    
+    h3{
+        background-color:rgb(255, 255, 255);
+    }
+    
+    p {
+        text-align: center;
+        font-size: medium;
+        color: white;
+    }
+    
+    strong {
+        font-size: larger;
+    }
+    
+    body {
+        background-color:black ;
+    }
+    .brilho {
+        color: azure;
+        font-style: italic;
+    }
